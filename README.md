@@ -7,4 +7,4 @@ Essa por ter bastante pessoas: <br>
 E essa por ser mais escura <br>
 ![image](https://github.com/LuaFly/azure-dio2/assets/42554771/40839aff-b00a-476d-b633-6da8d55deef8)
 <br>
-Podemos ver, que foi capaz de capturar todos os rostos nas imagens
+Podemos ver, que foi capaz de capturar todos os rostos nas imagens (olhar outputs) 
